@@ -1,0 +1,301 @@
+Marketing team
+a high-tech manufacturer of health-focused products for women.
+Small company   to become a larger player in the global smart device market.
+
+You have been asked to focus on one of Bellabeat’s products and analyze smart device data to 
+•	gain insight into how consumers are using their smart devices. 
+•	The insights you discover will then help guide marketing strategy for the company.
+
+Products:
+Bellabeat app: The Bellabeat app provides users with health data related to their 1. activity, 2. sleep, 3. stress, 4. menstrual cycle, and 5. mindfulness habits. This data can help users better understand their current habits and make healthy decisions. The Bellabeat app connects to their line of smart wellness products.
+Leaf: Bellabeat’s classic wellness tracker can be worn as a bracelet, necklace, or clip. The Leaf tracker connects to the Bellabeat app to track 1. activity, 2. sleep, and 3. stress.
+Time: This wellness watch combines the timeless look of a classic timepiece with smart technology to track user 1. activity, 2. sleep, and 3. stress. The Time watch connects to the Bellabeat app to provide you with insights into your daily wellness.
+ Spring: This is a water bottle that tracks daily water intake using smart technology to ensure that you are appropriately 1. hydrated throughout the day. The Spring bottle connects to the Bellabeat app to track 1. your hydration levels.
+Bellabeat membership: Bellabeat also offers a subscription-based membership program for users.
+Membership gives users 1. 24/7 access to fully personalized guidance on 2. nutrition, 3. activity, 4. sleep, 5. Health and 6. beauty, and 7. mindfulness based on their lifestyle and goals.
+
+•	An app
+•	Two wearables
+•	A water bottle
+•	A service
+
+Founded in 2013
+2016: became multinational. Made new products.
+Products available on: their own e-commerce platform and other online retailers
+
+Marketing:
+Traditional
+•	Radio, billboards, print and tv
+•	Digital marketing
+
+Digital marketing:
+1.	Active on Instagram, Facebook, Twitter, YouTube
+2.	Invests year-round in Google Search
+3.	Display ads on the Google Display Network
+
+Question
+1.	Please focus on a Bellabeat product and analyze smart device usage data in order to
+gain insight into how people are already using their smart devices. 
+
+2.	Then, using this information, she would like high-level recommendations for how these trends can inform Bellabeat marketing strategy.
+
+Ask
+
+These questions will guide your analysis:
+1. What are some trends in smart device usage?
+2. How could these trends apply to Bellabeat customers?
+3. How could these trends help influence Bellabeat marketing strategy?
+
+You will produce a report with the following deliverables:
+1. A clear summary of the business task
+2. A description of all data sources used
+3. Documentation of any cleaning or manipulation of data
+4. A summary of your analysis
+5. Supporting visualizations and key findings
+6. Your top high-level content recommendations based on your analysis
+
+
+Case Study Roadmap – 
+
+Ask 
+
+Guiding questions 
+● What is the problem you are trying to solve?  
+The company is small and does not know how to grow statistically. 
+It does not have current trends in smart device usage. 
+It does not have data-driven marketing based on trends.
+
+● How can your insights drive business decisions?
+I focus on one of Bellabeat’s products and analyse non-Bellabeat smart device data to gain insight into how consumers are using their smart devices.
+
+In other words, 
+1.	I analyze smart device usage data to gain insight into how consumers use non-Bellabeat smart devices. 
+2.	I then selected one Bellabeat product to apply these insights to in presentation.
+
+Key tasks 
+1.	Identify the business task.
+Find patterns in smart device usage data and make predictions about growth strategies and present them to the CEO.
+2. Consider key stakeholders.
+CEO, marketing analytics team, mathematician, and cofounder.
+
+Deliverable 
+A clear statement of the business task.
+Business Task: Analyze smart device fitness data to unlock growth opportunities.
+
+As a junior data analyst on the marketing team at Bellabeat, you have been asked to analyze smart device usage data to gain insights into consumer behavior. The goal is to identify trends and patterns that can inform Bellabeat's marketing strategy and unlock new growth opportunities.
+
+Specifically, you should:
+
+1.	Collect and assess smart device fitness data from consumers to identify trends in activity, sleep, stress, menstrual cycle, mindfulness (also: health and beauty, hydration, nutrition. Consider data from Bellabeat customers as well as users of other smart devices and activity trackers.
+2.	Analyze the data to gain insights into consumer preferences, pain points, and opportunities related to smart device usage and activity tracking. Look for trends by demographics, activity type, usage frequency, etc.
+3.	Identify 1-2 potential target smart devices or use cases that could be strategic growth areas for Bellabeat based on the consumer usage trends and insights uncovered in your analysis.
+4.	Develop a presentation of your analysis and recommendations for the Bellabeat executive team. Outline key trends and insights, strategic recommendations, and data to support your recommendations.
+5.	Be prepared to discuss how these insights can inform marketing strategy decisions for Bellabeat, such as product design, positioning, segmentation, messaging, and channel strategy.
+
+As a marketing analytics, I:
+1.	Measure
+2.	Analyse
+3.	Manage
+4.	Company’s budget, target audience and marketing strategies.
+
+
+Structured thinking is when I separate my data analysis into six steps making it more manageable.
+
+In the Ask stage, I need SMART questions and know the type of the problem.
+
+Problem-solving (of 6 types): 
+•	I make predictions.
+•	(optional) categorise customer satisfaction.
+•	(optional) identify theme of user practices.
+•	(optional) find patterns  check transaction data to discover customer buying habits. 
+
+
+prepare
+
+Case Study Roadmap - Prepare
+Guiding questions
+
+● Where is your data stored?
+It is in Excel
+● How is the data organized? Is it in long or wide format?
+it is:
+1.	A third-party data
+2.	A relational database. (contains data tables, I can access data, link different data based on their commonalities)
+3.	structured.
+4.	External
+5.	Quantitative (both discrete and continuous) Date, Integer, float
+6.	Its data modelling is physical.
+7.	It does not have either ERD or UML data modelling techniques.
+8.	It is merged (merging different datasets).
+
+It is a long data format. It is organised into rows and columns. 
+● Are there issues with bias or credibility in this data? Does your data ROCCC?
+as a third party data, it must be used with caution. Based on Kaggle it has a score of 10 meaning it is 100% complete, compatible and credible. 
+It does not say:
+1.	if participants were picked at random.
+2.	Time frame is only 2 month (a rush?)
+3.	Is it inclusive? (race, gender, etc.)
+
+It might have confirmation bias.
+
+ROCCC:
+It is cited.
+It is comprehensive.
+It is NOT current.
+It is reliable. (it is a vetted public dataset because it is on Kagle data repository)
+It is original.
+● How are you addressing licensing, privacy, security, and accessibility?
+
+Its license is CC0. It means that it is within public domain and has no copyright and is accessible to everyone. It is downloaded via Kaggle with is a trustworthy data repository and names the owner and authors.
+● How did you verify the data’s integrity?
+
+The data is anonymized. (No PII)
+It is an open data:
+•	Available to everyone for free.
+•	Accessed, used, and shared.
+•	Reused and redistributed universally.
+It is within Kaggle and has the highest score of 10.00.
+● How does it help you answer your question?
+It has data smart device user activity, heartrate, weight and sleep. Therefore, I can collect data on these topics.
+● Are there any problems with the data?
+
+It is not clear what kind of sampling was used for this survey and if it was an inclusive and unbiased selection of participants. Also, it does not provide any metadata inside Excel and only provides some in its Kaggle webpage. It does not provide data on stress, mindfulness and especially menstrual cycle which is a key point for my company’s target audience.
+
+Key tasks
+1. Download data and store it appropriately
+Done
+2.	Identify how it’s organized.
+Done. 
+3.	Sort and filter the data.
+Done.
+4.	Determine the credibility of the data.
+Done.
+
+Deliverable
+A description of all data sources used
+
+I have 18 different datasets.
+Lets analyse it one by one.
+1.	It has 14 columns. It is long. It shows daily activity of 30 people. It shows how much distance users exercised and how long they were active, their steps and total time and distance and calories.
+2.	Daily calories shows daily calories burned.
+3.	Daily intensities shows sedentary, lightly active, fairly active, … by distance and time
+4.	Daily steps each day
+5.	Heartrate seconds shows heartrate every second of every day. (too big)
+6.	Hourly calories shows calories every hour of everyday
+7.	Hourly intensities show total intensity and average intensity every hour of every day for 2 months.
+8.	Hourly steps show steps in each hour for two months.
+9.	Minute calories narrowed shows calories burnt every minute. (too big)
+10.	Minutes calories wide is the same data but in wide format
+11.	Minute intensity narrowed shows intense minutes for two months (too big).
+12.	Minute intensity wide is the same data but in wide format. 
+13.	 Minute METs (?) narrow (too big) shows METs very minute of every day for two months. unclear
+14.	Minute sleep shows LogId, and value (?). unclear 
+15.	Minute steps narrow (too big) shows steps taken every day on the minute level for two months.
+16.	Minute steps wide shows the same data but wide.
+17.	Sleep day shows total sleep records, total minutes sleep and total time in bed.
+18.	Weight log info is dirty. Sorted and filtered it.
+
+
+Prompt: I have an Excel sheet. the first column has 30 ids which are repeated many times. the next column is Date. it shows 60 days for each ID. Therefore, values in both columns are repetitive for example id 123 is repeated 60 times and Date 01/08/2023 is repeated 30 times. column third and fourth have unique values. Now I need to organize this data. how? I want to create a table in which ID numbers are grouped numerically. then I want the dates to be ordered from latest to newest for each group of ID. I do not know how to do it.
+
+Reply: 
+You can organize your data in Excel by sorting the data in the columns. Here are the steps you can follow to achieve the desired result:
+
+1. Select the entire data range that you want to sort.
+2. Click on the **Data** tab in the ribbon, then click on **Sort**.
+3. In the **Sort** dialog box, select the **Column** you want to sort by first (in your case, it would be the ID column).
+4. Choose the **Sort On** value as **Values**, and select the **Order** as either **A to Z** or **Z to A** depending on whether you want to sort in ascending or descending order.
+5. Click on **Add Level** to add another level of sorting.
+6. Select the second column you want to sort by (in your case, it would be the Date column).
+7. Choose the **Sort On** value as **Values**, and select the **Order** as either **Oldest to Newest** or **Newest to Oldest** depending on whether you want to sort in ascending or descending order.
+8. Click on **OK** to apply the sorting.
+
+
+Process
+
+Guiding questions
+● What tools are you choosing and why?
+I think SQL and R for big ones. And Excel for little ones.
+I wanna do data normalization using Big Query.
+● Have you ensured your data’s integrity?
+Yes. I have checked data types, data range, mandatory fields, regular expression patterns, cross-field validation, primary keys, foreign keys, accuracy, consistency and completeness.
+The analysis must find info on women users. I do not know the participants’ gender.
+
+I don not have enough data.
+I use proxy data. 
+● What steps have you taken to ensure that your data is clean?
+•	I have checked to see if my data was checked by a data engineer. It was not.
+•	I have sorted and filtered my data. 
+•	I have checked data types.
+•	White space removal
+If ID must be 6 characters, I do =LEN to find if they all are 6. Then CF to highlight the ones that are not 6.
+•	Trailing or leading space removal.
+=TRIM
+•	Duplicate removal.
+•	Removed or filled nulls.
+•	checked misspells.
+•	Inconsistent labelling
+•	Omitted irrelevant data
+•	Checked skewed data
+Using Data plotting (creating charts for a column)
+
+•	Transposed data 
+•	Cleared formatting
+•	Should I do data mapping?
+I don’t think so. Because these datasets are already merged. And data mapping is for integration, migration or management.
+I should use some data mapping tool though. 
+● How can you verify that your data is clean and ready to analyze?
+By checking the steps above.
+
+● Have you documented your cleaning process so you can review and share those results?
+Nope. But I should.
+
+Key tasks
+1. Check the data for errors.
+2. Choose your tools.
+3. Transform the data so you can work with it effectively.
+4. Document the cleaning process.
+I have sorted and filtered IDs and Dates. I have removed whitespaces, leading or trailing spaces. Removed duplicates. Removed empty rows. Checked misspellings…
+
+
+Prompt:
+How can I eliminate blank rows in excel?
+
+Find & Select > Go To Special. A “Go To Special” window will open. Here, enable the “Blanks” option, then choose “OK” at the bottom. All the blank rows in your selected dataset are now highlighted.
+
+
+Prompt:
+How can I get distinct values in excel?
+
+Data, filter, Advanced, click on Unique Values Only
+Conditional formatting, unique values…
+
+Prompt:
+How can I separate datetime into date and time?
+=FIND
+=LEFT
+=RIGHT
+=MID
+=LEN
+
+Or convert it to text and then use Data, Split (excel: Text to column)
+How can I convert datetime to text?
+
+=TEXT (A2, “dd/mm/yyyy mm:hh”)
+
+
+I have used =TRIM(CLEAN()) to remove spaces before sorting. I learned about nesting filter in sort function -> =SORT(FILTER(range, ( condition 1 * condition 2), “ “), column 1,1, column2, -1)
+
+I have learned how to save my queries as a new table in demo dataset.
+
+TO CHANGE TEXT TO NUMBER: =NUMBERVALUE(), then paste values only, then convert the weird number to number 
+
+I have done a combo of data validation and conditional formatting.
+
+I need to merge now. 
+
+Analyse
+I have all the data and I have the questions, but I do not know if my data can answer my questions. I need to talk to the stakeholders, but I can’t.
+
+
+
